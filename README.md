@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- this is a bullet
-- this also a bullet
+I'm currently doing data analysis for Pano AI!
 (she/her)
